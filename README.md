@@ -1,1 +1,2 @@
 # MyRepository
+此flink框架demo未连接kafka,实时交易监控案例未完全测试完成
